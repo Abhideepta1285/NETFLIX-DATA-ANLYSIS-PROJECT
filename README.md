@@ -136,7 +136,9 @@ NETFLIX DATA ANALYSIS PROJECT/
 
 
 
+```
 
+---
 ## 🔍 Key Insights
 
 - The dataset contains **9,827 movies**.
