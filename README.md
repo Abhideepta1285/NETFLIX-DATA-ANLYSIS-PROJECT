@@ -135,7 +135,7 @@ NETFLIX DATA ANALYSIS PROJECT/
     └── Vote distribution.png
 
 
----
+
 
 ## 🔍 Key Insights
 
